@@ -1,5 +1,7 @@
 #ignore (windows) executable files
 .exe
 
+.gitignore
+
 #ignore .vscode repository
 /.vscode
