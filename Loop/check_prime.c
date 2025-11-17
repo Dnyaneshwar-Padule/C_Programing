@@ -7,6 +7,7 @@ int main()
 
     printf("\n### Check Prime. ###\n\n");
     printf("Enter a number : ");
+    
     if (scanf("%d", &num))
     {
         if (num < 2)
